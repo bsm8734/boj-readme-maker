@@ -46,7 +46,7 @@ python3 main.py 'Implementation' 3151 29366 29442
 
 ```text
 # python3 restruct_main.py (카테고리 이름)
-python3 restruct_main.py '투 포인'
+python3 restruct_main.py '투 포인터'
 ```
 
 ### 원하는 output (예시)
