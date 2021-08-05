@@ -42,7 +42,7 @@ python3 main.py 'Implementation' 3151 29366 29442
 
 ## 사용법 - restruct_main.py
 
-### input 예시)
+### input (예시)
 
 ```text
 # python3 restruct_main.py (카테고리 이름)
